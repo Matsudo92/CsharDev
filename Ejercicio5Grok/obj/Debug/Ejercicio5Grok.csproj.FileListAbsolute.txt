@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Course C#\Ejercicio5Grok\Ejercicio5Grok\bin\Debug\Ejercicio5Grok.exe.config
+C:\Users\User\Documents\Course C#\Ejercicio5Grok\Ejercicio5Grok\bin\Debug\Ejercicio5Grok.exe
+C:\Users\User\Documents\Course C#\Ejercicio5Grok\Ejercicio5Grok\bin\Debug\Ejercicio5Grok.pdb
+C:\Users\User\Documents\Course C#\Ejercicio5Grok\Ejercicio5Grok\obj\Debug\Ejercicio5Grok.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Course C#\Ejercicio5Grok\Ejercicio5Grok\obj\Debug\Ejercicio5Grok.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Course C#\Ejercicio5Grok\Ejercicio5Grok\obj\Debug\Ejercicio5Grok.exe
+C:\Users\User\Documents\Course C#\Ejercicio5Grok\Ejercicio5Grok\obj\Debug\Ejercicio5Grok.pdb
