@@ -12,6 +12,7 @@ namespace Ejercicio5Grok
         public Mascota()
         {
             NivelEnergia = 100;
+            Juguete = new Juguete();
         }
 
         protected string especie { get; set; }

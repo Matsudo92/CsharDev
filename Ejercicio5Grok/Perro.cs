@@ -7,11 +7,21 @@ using System.Threading.Tasks;
 
 namespace Ejercicio5Grok
 {
-    internal class Perro: Mascota   
+    internal class Perro: Mascota, IAdoptable   
     {
+
         public Perro() 
         {
             especie = "P";
+        }
+
+        public string AptoAdopcion()
+        {
+            if (NivelEnergia < 20)
+                return "No se puede adoptar";
+            else
+                return "Es adoptable";
+
         }
 
         public override string HacerSonido()
